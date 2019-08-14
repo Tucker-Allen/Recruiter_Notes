@@ -1,7 +1,9 @@
 
 ## Recruiter Cheat-Sheet for Tucker Allen
 
-Let's save us both some time with a little transparency! See below for my interests (or skip to the bottom for the [Hard Passes](#hard-pass) if you're the process-of-elimination type)
+Let's save us both some time with a little transparency! I'm concentrating on **Data Science** focused roles, but I can entertain Data Engineering roles if there is opportunity to support machine learning initiatives.
+
+See below for my interests (or skip to the bottom for the [Hard Passes](#hard-pass) if you're the process-of-elimination type)
 
 ### IDEAL
 - Industries:
@@ -11,7 +13,7 @@ Let's save us both some time with a little transparency! See below for my intere
   - Election Campaign
   - Dating Apps
   - Fantasy Sports/Bookmaking
-  - Adult Tech-skill Teaching
+  - Upskilling Adults in Tech
   - Poker AI
 - Companies:
   - 538
