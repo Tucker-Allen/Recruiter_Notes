@@ -20,7 +20,6 @@ See below for my interests (or skip to the bottom for the [Hard Passes](#hard-pa
   - Boston Celtics
   - Haven
   - Imgur
-  - MindGeek
   - NBA/NFL
   - New York Times
   - NPR
