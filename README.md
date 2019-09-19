@@ -3,7 +3,9 @@
 
 Let's save us both some time with a little transparency! I'm concentrating on **Data Science** focused roles, but I can entertain Data Engineering roles if there is opportunity to support machine learning initiatives.
 
-See below for my interests (or skip to the bottom for the [Hard Passes](#hard-pass) if you're the process-of-elimination type)
+It's imperative for me that the company mission aligns with something that I feel passionate about, most notably fixing U.S. healthcare, U.S. government, or exploding income inequality. If that's not available (because we also need to be realistic), I'd be open to something that matches my general, although admittedly scattered, interests.
+
+See below for my interests (or skip to the bottom for the [Hard Passes](#hard-pass) if you're the process-of-elimination type).
 
 ### IDEAL
 - Industries:
