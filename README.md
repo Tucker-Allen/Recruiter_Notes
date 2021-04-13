@@ -58,6 +58,7 @@ See below for my interests (or skip to the bottom for the [Hard Passes](#hard-pa
   - Industries:
     - Financial/Fintech
     - Media
+    - Advertising
     - Food Delivery Apps
   - Companies:
     - Apple
